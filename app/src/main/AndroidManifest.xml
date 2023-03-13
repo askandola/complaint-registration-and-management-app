@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.askandola.complaintmanagementsystem">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ComplaintManagementSystem">
+        <activity
+            android:name=".AdminSignInActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AdminUserViewActivity"
+            android:exported="true"
+            android:parentActivityName=".UsersListActivity" />
+        <activity
+            android:name=".UsersListActivity"
+            android:exported="true"
+            android:parentActivityName=".AdminMainActivity" />
+        <activity
+            android:name=".AdminComplaintViewActivity"
+            android:exported="true"
+            android:parentActivityName=".AdminMainActivity" />
+        <activity
+            android:name=".AdminMainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ViewComplaintActivity"
+            android:exported="true"
+            android:parentActivityName=".ComplaintsListActivity" />
+        <activity
+            android:name=".ComplaintsListActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AddComplaintActivity"
+            android:exported="true"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SignInActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

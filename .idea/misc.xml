@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/layout/activity_add_complaint.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/layout/activity_admin_complaint_view.xml" value="0.20625" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/layout/activity_admin_main.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/layout/activity_admin_sign_in.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/layout/activity_admin_user_view.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/layout/activity_complaints_list.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/layout/activity_main.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/layout/activity_sign_in.xml" value="0.1411184210526316" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/layout/activity_users_list.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/layout/activity_users_list_item.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/layout/activity_view_complaint.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/layout/admin_complaint_list_item.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/layout/admin_user_list_item.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/layout/list_item.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/menu/menu_delete_complaint.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/menu/menu_delete_user.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/menu/menu_logout.xml" value="0.2234375" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11597222222222223" />
+        <entry key="..\:/AndroidStudioProjects/ComplaintManagementSystem/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.11597222222222223" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

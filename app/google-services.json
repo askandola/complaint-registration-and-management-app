@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "336968107656",
+    "project_id": "complaint-management-sys-8c1bc",
+    "storage_bucket": "complaint-management-sys-8c1bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336968107656:android:d25caa68f94320985c813d",
+        "android_client_info": {
+          "package_name": "me.askandola.complaintmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336968107656-fd5t61bfl5akk9qra83m81g9nsfjbid5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.askandola.complaintmanagementsystem",
+            "certificate_hash": "9600433bbe98ec6b2aa577bb0db9bc892089438d"
+          }
+        },
+        {
+          "client_id": "336968107656-nuqmp0f7umtrvunb7uka55pbpbvc0j7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4gk4P2dObLDrCfyXBWdeqRpxcy9WIOAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336968107656-nuqmp0f7umtrvunb7uka55pbpbvc0j7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
